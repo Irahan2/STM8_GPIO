@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# STM8_GPIO
+# STM8 GPIO
 STM8 GPIO programming LED control and blinking
-=======
-# assembly-math-operations
-Mathematical operations in assembly for STM8
->>>>>>> 5697473 (Initial commit)
+
+# Assembly Math Operations
+This project demonstrates basic mathematical and logical operations implemented in Assembly for STM8 using ST Visual Develop.
